@@ -17,8 +17,7 @@ Al presionar el  botón, se debe mostrar un mensaje como el siguiente "Esto no a
 class App(customtkinter.CTk):
 
     def __init__(self):
-        super().__init__()
-
+        super().__init__()tgtg
         self.title("UTN FRA")
 
         self.btn_mostrar = customtkinter.CTkButton(
